@@ -1,6 +1,6 @@
 # Try Hack Me - Capture The Flag - Self-notes
 
-## This will contain Screenshots of notes I've been taking while doing CTFs on THM without indepth explanation.
+## This will contain Screenshots of notes I've been taking while doing CTFs on THM without indepth explanation (for now)
 
 ### PickleRick
 ![image](https://github.com/user-attachments/assets/bbd3a4e4-e19f-4b04-9783-fa40154558a4)
