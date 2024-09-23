@@ -5,6 +5,9 @@
 ## Mr_Robot
 ![image](https://github.com/user-attachments/assets/d20eb863-4be8-4a0d-8eff-1310c523c8bd)
 
+### NoSQL
+![image](https://github.com/user-attachments/assets/bab6833b-730b-41a6-9501-7869452d7167)
+
 ### rootme
 ![image](https://github.com/user-attachments/assets/47b276dc-0935-44da-82f5-62311288d1a2)
 
